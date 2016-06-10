@@ -3,3 +3,4 @@ painel
 administrador
 login
 admin
+administrator
